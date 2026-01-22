@@ -6,7 +6,7 @@ I'm a developer focused on solving problems and building scalable solutions. Cur
 
 ### 🤖 About Me
 
-* 🎓 **Education:** Studying Software Engineering & FullStack Development (EBAC).
+* 🎓 **Education:** Studying Software Engineering at Estácio de Sá University & FullStack Development (EBAC).
 * 📍 **Location:** Caxias do Sul, Rio Grande do Sul - Brazil.
 * 🎂 **Age:** 22 years old.
 * 💡 **Goal:** Transitioning to a full-time Developer role.

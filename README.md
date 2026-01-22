@@ -2,7 +2,7 @@
 
 > Software Engineering Student | FullStack Developer in Training
 
-I'm a developer focused on solving problems and building scalable solutions. Currently transitioning my career to specialize in **Backend development (Python/Java)** while leveraging my background in Frontend.
+I'm a developer focused on solving problems and building scalable solutions. Currently transitioning my career to specialize in **Backend development (Java/Python)** while leveraging my background in Frontend.
 
 ### 🤖 About Me
 

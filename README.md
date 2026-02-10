@@ -44,4 +44,4 @@ I believe clarity in life reflects in clarity of code. When I'm not studying:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-carneiro-40a018294/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devigorcarneiro@gmail.com)
 
-23/365
+41/365

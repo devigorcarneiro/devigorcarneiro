@@ -56,5 +56,5 @@ I believe clarity in life reflects in clarity of code. When I'm not studying:
 
 ### 💻 Which programming language am I using the most...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devigorcarneiro&hide_progress=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devigorcarneiro&layout=compact)
 
